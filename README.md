@@ -1,13 +1,12 @@
+## Oi 👋 , bem-vindo ao meu perfil
 
-## Hi 👋, wellcome to my profile
+- 👨 💻 Trabalhando como freelancer e fazendo projetos em Selenium
+- 🧭 Criação de automações e ferramentas de IA
+- 👥 Fornecendo soluções para empresas
+- muito mais ;)
 
-- 👨‍💻 Working as a freelancer and making projects in Selenium
-- 🧭 Creating automations and AI tools
-- 👥 Providing solutions for businesses
-- a lot more ;)
+Habilidades:
 
-Skills:
-
-- 👨‍💻 Python, HTML, Django, C#, etc.
+- 👨 💻 Python, HTML, Django, C#, etc.
 - 💽 MySQL, SQL
-- a lot more :D
+- muito mais :D
