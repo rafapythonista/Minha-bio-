@@ -1,12 +1,15 @@
-## Oi 👋 , bem-vindo ao meu perfil
+# Olá, eu sou o Rafael! 👋
 
-- 👨 💻 Trabalhando como freelancer e fazendo projetos em Selenium
-- 🧭 Criação de automações e ferramentas de IA
-- 👥 Fornecendo soluções para empresas
-- muito mais ;)
+Buscando minha primeira oportunidade como Estagiário de TI / Desenvolvedor.
 
-Habilidades:
+### 🚀 Sobre mim
+- 🎓 Cursando Engenharia de Software 2º Semestre
+- 🧠 Focado em aprender as melhores práticas de desenvolvimento, arquitetura de software e resolução de problemas.
+- ⚡ Interesses: Desenvolvimento Web, Bancos de Dados e Automação de Processos.
 
-- 👨 💻 Python, HTML, Django, C#, etc.
-- 💽 MySQL, SQL
-- muito mais :D
+### 🛠️ Tecnologias e Ferramentas
+- **Linguagens:** C++, Python, HTML/CSS, AWS/ CLOUD
+- **Ferramentas:** VS Code, Git, GitHub
+
+### 📞 Vamos nos conectar?
+LinkedIn: www.linkedin.com/in/rafaeng | E-mail: rafael.working213@outlook.com
