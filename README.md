@@ -8,7 +8,7 @@ Buscando minha primeira oportunidade como Estagiário de TI / Desenvolvedor.
 - ⚡ Interesses: Desenvolvimento Web, Bancos de Dados e Automação de Processos.
 
 ### 🛠️ Tecnologias e Ferramentas
-- **Linguagens:** C++, Python, HTML/CSS, AWS/ CLOUD
+- **Linguagens:** C++, Python, SQL, AWS/ CLOUD
 - **Ferramentas:** VS Code, Git, GitHub
 
 ### 📞 Vamos nos conectar?
